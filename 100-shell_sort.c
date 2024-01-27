@@ -1,5 +1,10 @@
 #include "sort.h"
 
+/**
+ * swap_ints - Swap two integers in an array
+ * @x: First integer to swap
+ * @y: Second integer to swap
+ */
 void swap_ints(int *x, int *y)
 {
 	int temp;
